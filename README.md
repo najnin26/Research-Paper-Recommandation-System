@@ -20,7 +20,7 @@ This project focuses on building a machine learning-based recommendation system 
 - Provides functionality to load the saved model and vectorizer to make predictions on new research papers, enhancing the system's usability in real-world scenarios.
 
 ## Dependencies
-- Python 3
+- Python 
 - Transformers
 - Tensorflow
 - Scikit-learn
