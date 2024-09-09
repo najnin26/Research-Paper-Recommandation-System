@@ -1,5 +1,5 @@
 
-# Research Paper Recommandation System and Subject Area prediction using Deep Learning and LLM
+# Research Paper Recommendation System and Subject Area prediction using Deep Learning and LLM
 
 This project focuses on building a machine learning-based recommendation system for research papers and predicting their subject areas using sentence embeddings from advanced natural language processing (NLP) models. The system leverages the power of sentence transformers, specifically Sentence-BERT (SBERT), to capture the semantic similarity between research papers, enabling accurate recommendations and subject area predictions.
 
