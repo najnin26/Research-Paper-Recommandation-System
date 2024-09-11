@@ -29,7 +29,4 @@ This project focuses on building a machine learning-based recommendation system 
 - Matplotlib
 
 ## Demo
-
-https://www.veed.io/view/0ab34b4a-6618-4a2c-86b5-180a4aa30ba3?panel=
-
 https://www.canva.com/design/DAGQMZoXx58/3TM3p0MTq9gUpxX8BLv2ow/edit?utm_content=DAGQMZoXx58&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
